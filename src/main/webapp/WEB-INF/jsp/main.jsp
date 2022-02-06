@@ -64,7 +64,7 @@
 
     <div id="grid" style="height: 600px; flex: 1;"></div>
 </div>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript" src="/js/w2ui-1.5.min.js"></script>
 <%--<script type="text/javascript" src="https://rawgit.com/vitmalina/w2ui/master/dist/w2ui.min.js"></script>--%>
 <script>
