@@ -62,7 +62,7 @@
         </div>
     </div>
 
-    <div id="grid" style="height: 600px; flex: 1;"></div>
+    <div id="grid" style="height: 800px; flex: 1;"></div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript" src="/js/w2ui-1.5.min.js"></script>
